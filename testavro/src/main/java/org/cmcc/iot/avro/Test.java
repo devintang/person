@@ -6,6 +6,7 @@ package org.cmcc.iot.avro;
  */
 public class Test {
     private int a;
+    private String name;
 
     public static void main(String[] args) {
         System.out.println("hello-world");

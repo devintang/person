@@ -90,6 +90,7 @@ public class TestConnect {
         instance.insertData();
         Common.sleep(1000 * 20);
         instance.insertData();
+        Common.sleep(1000 * 10);
         instance.close();
     }
 }
